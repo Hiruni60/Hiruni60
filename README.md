@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiruni60&show_icons=true&locale=en" alt="hiruni60" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiruni60&" alt="hiruni60" /></p>
+<img align="right" alt="Code" width="500" src="https://thumbs.gfycat.com/WelltodoCavernousHeterodontosaurus-size_restricted.gif">
+<img align="left" alt="Code" width="400" src="https://www.digisailor.com/assets/img/services-details/5.gif">
