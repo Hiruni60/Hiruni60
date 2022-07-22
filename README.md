@@ -7,11 +7,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=f6e58d&center=true&vCenter=true&width=800&height=45&lines=A+Student+at+Software+Engineering;Institute+of+Java+%26+Software+Engineering+(IJSE)">
 </p >
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Code" width="550" src="https://www.digisailor.com/assets/img/services-details/5.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruni60&label=Profile%20views&color=0e75b6&style=flat" alt="hiruni60" /> </p>
 
 - 🌱 I’m currently learning **Java,HTML,CSS,C#**
-
+- 👯 I’m looking to collaborate on **anything**
 - 💬 Ask me about **C#,Java,HTML**
 
 - 📫 How to reach me **piumikahiruni22@gmail.com**
@@ -34,5 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiruni60&show_icons=true&locale=en" alt="hiruni60" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiruni60&" alt="hiruni60" /></p>
-<img align="right" alt="Code" width="500" src="https://thumbs.gfycat.com/WelltodoCavernousHeterodontosaurus-size_restricted.gif">
-<img align="left" alt="Code" width="400" src="https://www.digisailor.com/assets/img/services-details/5.gif">
+
+
