@@ -19,6 +19,7 @@
 <a href="http://linkedin.com/in/hiruni-piumika-7a3765245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiruni piumika" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dinithi.amaya.549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiruni piumika" height="30" width="40" /></a>
 <a href="https://instagram.com/hiruni_piumika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hiruni piumika" height="30" width="40" /></a>
+   <a href="https://app.slack.com/client/T03LW78179A/D03NU8S7EH2/rimeto_profile/U03NB8GLSLF" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="client/T03LW78179A/D03MCLVB0SD/rimeto_profile/U03MPPVTU56" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
