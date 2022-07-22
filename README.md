@@ -1,9 +1,8 @@
-<div id="header" align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/welcome-icegif-1.gif" width="900" height="250"/>
-  
-</div>
+
 <h1 align="center">Hi 👋, I'm Hiruni Piumika</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%ff38384E&center=true&vCenter=true&width=800&height=45&lines=A+Student+at+Software+Engineering;Institute+of+Java+and+Software+Engineering+(IJSE)">
+</p >
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruni60&label=Profile%20views&color=0e75b6&style=flat" alt="hiruni60" /> </p>
 
