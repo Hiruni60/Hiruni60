@@ -1,4 +1,7 @@
-<img align="center" alt="Welcome" width="500" src="https://tenor.com/view/welcome-aesthetic-gif-20399053">
+<div id="header" align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/welcome-icegif-1.gif" width="900" height="250"/>
+  
+</div>
 <h1 align="center">Hi 👋, I'm Hiruni Piumika</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
