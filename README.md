@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%4834d4E&size=42&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Hiruni+Piumika">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff2004E&size=42&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Hiruni+Piumika;)](https://git.io/typing-svg) 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%ff38384E&center=true&vCenter=true&width=800&height=45&lines=A+Student+at+Software+Engineering;Institute+of+Java+%26+Software+Engineering+(IJSE)">
